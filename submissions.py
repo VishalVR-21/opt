@@ -20,7 +20,7 @@ def get_submission(passcode):
     html_text = '''
         <html>
             <head>
-                <title>Hash it Out Submissions</title>
+                <title>Codestorm final Submissions</title>
                 <style>
                     body {
                         font-family: verdana, sans-serif;
@@ -107,7 +107,8 @@ def get_submission(passcode):
                info[i]['input-number'],
                info[i]['code-file-path'],
                info[i]['output-path'],
-               info[i]['submission-verdict']['result'] if info[i]['submission-verdict']['result'] == 'AC' else info[i]['submission-verdict']['result']+': '+info[i]['submission-verdict']['error'],
+               info[i]['submission-verdict']['result'] if info[i]['submission-verdict']['result'] == 'AC' else info[i]['submission-verdict']['result'] +
+               ': '+info[i]['submission-verdict']['error'],
                info[i]['submission-verdict']['points'],
                info[i]['date-and-time'])
 

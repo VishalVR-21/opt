@@ -4,7 +4,7 @@ def get_leaderboard(leaderboard):
     html_text = '''
         <html>
             <head>
-                <title>Hash it Out Final Round</title>
+                <title>Codestorm Final Round</title>
                 <style>
                     body {
                         font-family: verdana, sans-serif;
