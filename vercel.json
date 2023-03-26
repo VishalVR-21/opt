@@ -1,13 +1,14 @@
 {
+  "version": 2,
   "builds": [
     {
       "src": "main.py",
-      "use": "@vercel/python"
+      "use": "@now/python-bottle"
     }
   ],
   "routes": [
     {
-      "src": "/(.*)",
+      "src": "/",
       "dest": "main.py"
     }
   ]
