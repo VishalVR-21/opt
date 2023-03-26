@@ -1,4 +1,4 @@
-from bottle import run, get, post, route, request, static_file, template
+from bottle import run, get, post, route, request, static_file, template, default_app
 from threading import Thread
 from leaderboard import *
 from submissions import *
@@ -171,7 +171,8 @@ def leaderboard():
     leaderboard_list = list()
 
     for team in teams:
-        leaderboard_list.append([sum(teams[team].score), -teams[team].last_time, teams[team].score, teams[team].teamname])
+        leaderboard_list.append(
+            [sum(teams[team].score), -teams[team].last_time, teams[team].score, teams[team].teamname])
 
     leaderboard_list.sort()
     leaderboard_list.reverse()
@@ -244,7 +245,8 @@ def submission():
         os.mkdir(passcode)
 
     # Initialize the file path for the code file and save the code file temporarily
-    code_file_path = '%s/code-%d-%s' % (passcode, teams[passcode].number_of_attempts+1, code_file.filename)
+    code_file_path = '%s/code-%d-%s' % (
+        passcode, teams[passcode].number_of_attempts+1, code_file.filename)
     code_file.save(code_file_path)
 
     # Store the code file and delete the temporary code file
@@ -261,11 +263,13 @@ def submission():
             teams[passcode].number_of_attempts += 1
 
             # Initialize the path for output file and save the output file temporarily
-            output_file_path = '%s/output-%d' % (passcode, teams[passcode].number_of_attempts)
+            output_file_path = '%s/output-%d' % (passcode,
+                                                 teams[passcode].number_of_attempts)
             files[i].save(output_file_path)
 
             # Start a thread which makes a submission for an output file
-            Thread(target=teams[passcode].make_attempt, args=(i+1, code_file_path, output_file_path, teams[passcode].number_of_attempts,)).start()
+            Thread(target=teams[passcode].make_attempt, args=(
+                i+1, code_file_path, output_file_path, teams[passcode].number_of_attempts,)).start()
 
     return {'ok': True}
 
@@ -321,12 +325,15 @@ def get_output_file(passcode, filename):
         return {'error': 'passcode does not exist'}
 
     # Return the output file as text
-    output_text = database.child('submissions').child(passcode).child(filename).get().val()
+    output_text = database.child('submissions').child(
+        passcode).child(filename).get().val()
 
     return output_text
 
 
-if os.environ.get('APP_LOCATION') == 'heroku':
-    run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
-else:
-    run(host='localhost', port=8080, debug=True)
+# if os.environ.get('APP_LOCATION') == 'heroku':
+#     run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
+# else:
+#     run(host='localhost', port=8080, debug=True)
+
+app = default_app()
