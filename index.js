@@ -15,7 +15,7 @@ function make_submission() {
     for (var i = 1; i <= 5; i++) {
         if (!document.getElementById('file'+i).files[0])
             number_of_empty_files += 1;
-        else if (document.getElementById('file'+i).files[0].size > 10000) {
+        else if (document.getElementById('file'+i).files[0].size > (2*1024*1024)) {
             alert('File '+i+' is too big');
             document.getElementById('submission').reset();
             return ;
