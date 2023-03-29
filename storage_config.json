@@ -1,9 +1,9 @@
 {
-    "apiKey": "",
-    "authDomain": "",
-    "projectId": "",
-    "storageBucket": "",
-    "messagingSenderId": "",
-    "appId": "",
-    "databaseURL": ""
+  "apiKey": "AIzaSyD_tV8ZczE7EnYYQc3jGCwzdYdwDrD6Rls",
+  "authDomain": "codestorm-r2.firebaseapp.com",
+  "projectId": "codestorm-r2",
+  "storageBucket": "codestorm-r2.appspot.com",
+  "messagingSenderId": "47245084244",
+  "appId": "1:47245084244:web:29fc48fc3a3a324eeb0fc1",
+  "databaseURL": "https://codestorm-r2-default-rtdb.firebaseio.com/"
 }
