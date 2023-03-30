@@ -1,0 +1,294 @@
+73
+38
+skill_1 skill_2 skill_3 skill_4 skill_5 skill_6 skill_7 skill_8 skill_9 skill_10 skill_11 skill_12 skill_13 skill_14 skill_15 skill_16 skill_17 skill_18 skill_19 skill_20 skill_21 skill_22 skill_23 skill_24 skill_25 skill_26 skill_27 skill_28 skill_29 skill_30 skill_31 skill_32 skill_33 skill_34 skill_35 skill_36 skill_37 skill_38
+145
+1 36 
+skill_20 skill_12 skill_19 skill_14 skill_7 skill_8 skill_34 skill_30 skill_4 skill_5 skill_13 skill_23 skill_31 skill_10 skill_28 skill_1 skill_9 skill_18 skill_36 skill_33 skill_29 skill_25 skill_2 skill_21 skill_37 skill_16 skill_17 skill_38 skill_35 skill_11 skill_26 skill_6 skill_15 skill_22 skill_27 skill_3
+2 17 
+skill_38 skill_29 skill_2 skill_22 skill_15 skill_26 skill_3 skill_14 skill_27 skill_30 skill_35 skill_8 skill_6 skill_36 skill_31 skill_32 skill_16
+3 19 
+skill_23 skill_14 skill_26 skill_36 skill_35 skill_34 skill_4 skill_11 skill_13 skill_28 skill_12 skill_22 skill_17 skill_2 skill_8 skill_1 skill_18 skill_33 skill_37
+4 29 
+skill_6 skill_26 skill_27 skill_13 skill_31 skill_22 skill_25 skill_14 skill_12 skill_19 skill_9 skill_17 skill_16 skill_38 skill_7 skill_30 skill_3 skill_36 skill_20 skill_21 skill_33 skill_2 skill_24 skill_15 skill_23 skill_28 skill_8 skill_4 skill_5
+5 33 
+skill_1 skill_14 skill_3 skill_16 skill_11 skill_10 skill_19 skill_8 skill_25 skill_18 skill_9 skill_37 skill_35 skill_26 skill_5 skill_21 skill_12 skill_36 skill_34 skill_23 skill_38 skill_20 skill_31 skill_15 skill_4 skill_33 skill_6 skill_2 skill_13 skill_24 skill_29 skill_28 skill_27
+6 35 
+skill_17 skill_2 skill_7 skill_24 skill_1 skill_34 skill_16 skill_23 skill_25 skill_38 skill_27 skill_28 skill_20 skill_29 skill_30 skill_10 skill_31 skill_9 skill_15 skill_32 skill_8 skill_22 skill_26 skill_33 skill_36 skill_35 skill_14 skill_37 skill_11 skill_18 skill_4 skill_5 skill_6 skill_19 skill_21
+7 16 
+skill_25 skill_34 skill_2 skill_3 skill_19 skill_35 skill_9 skill_32 skill_15 skill_30 skill_26 skill_23 skill_13 skill_37 skill_31 skill_11
+8 36 
+skill_31 skill_17 skill_24 skill_16 skill_29 skill_23 skill_9 skill_15 skill_18 skill_25 skill_8 skill_37 skill_35 skill_4 skill_14 skill_34 skill_10 skill_38 skill_3 skill_36 skill_6 skill_22 skill_5 skill_30 skill_21 skill_19 skill_12 skill_32 skill_11 skill_20 skill_33 skill_28 skill_2 skill_13 skill_26 skill_7
+9 21 
+skill_36 skill_4 skill_21 skill_17 skill_3 skill_15 skill_30 skill_27 skill_12 skill_6 skill_10 skill_34 skill_11 skill_22 skill_26 skill_28 skill_1 skill_2 skill_32 skill_19 skill_24
+10 22 
+skill_27 skill_24 skill_38 skill_2 skill_8 skill_17 skill_5 skill_21 skill_30 skill_13 skill_11 skill_7 skill_34 skill_10 skill_32 skill_31 skill_35 skill_9 skill_16 skill_36 skill_15 skill_12
+11 33 
+skill_36 skill_23 skill_34 skill_15 skill_5 skill_35 skill_24 skill_12 skill_20 skill_38 skill_11 skill_18 skill_4 skill_8 skill_31 skill_2 skill_26 skill_25 skill_29 skill_37 skill_13 skill_7 skill_21 skill_22 skill_14 skill_19 skill_16 skill_6 skill_9 skill_28 skill_33 skill_3 skill_30
+12 34 
+skill_6 skill_1 skill_24 skill_17 skill_18 skill_34 skill_29 skill_8 skill_2 skill_3 skill_26 skill_4 skill_15 skill_27 skill_38 skill_11 skill_25 skill_7 skill_37 skill_5 skill_16 skill_10 skill_20 skill_31 skill_35 skill_9 skill_28 skill_12 skill_33 skill_22 skill_23 skill_14 skill_32 skill_30
+13 34 
+skill_27 skill_22 skill_38 skill_11 skill_26 skill_10 skill_17 skill_25 skill_33 skill_15 skill_2 skill_8 skill_24 skill_37 skill_19 skill_34 skill_28 skill_30 skill_36 skill_7 skill_1 skill_13 skill_9 skill_35 skill_31 skill_20 skill_32 skill_29 skill_21 skill_18 skill_4 skill_6 skill_12 skill_14
+14 19 
+skill_9 skill_12 skill_14 skill_26 skill_22 skill_2 skill_21 skill_7 skill_13 skill_32 skill_1 skill_11 skill_29 skill_23 skill_36 skill_33 skill_24 skill_15 skill_20
+15 33 
+skill_14 skill_27 skill_26 skill_29 skill_33 skill_17 skill_23 skill_21 skill_38 skill_13 skill_20 skill_28 skill_22 skill_12 skill_32 skill_25 skill_15 skill_8 skill_6 skill_4 skill_19 skill_10 skill_35 skill_7 skill_3 skill_30 skill_16 skill_2 skill_5 skill_24 skill_18 skill_1 skill_37
+16 27 
+skill_10 skill_35 skill_37 skill_7 skill_27 skill_14 skill_6 skill_9 skill_1 skill_33 skill_19 skill_16 skill_31 skill_17 skill_24 skill_29 skill_13 skill_34 skill_5 skill_23 skill_8 skill_2 skill_26 skill_18 skill_11 skill_32 skill_20
+17 20 
+skill_29 skill_14 skill_1 skill_15 skill_21 skill_20 skill_35 skill_11 skill_13 skill_6 skill_19 skill_26 skill_37 skill_31 skill_22 skill_32 skill_10 skill_34 skill_23 skill_25
+18 25 
+skill_17 skill_33 skill_11 skill_10 skill_14 skill_35 skill_21 skill_24 skill_4 skill_22 skill_23 skill_18 skill_16 skill_34 skill_38 skill_1 skill_3 skill_27 skill_25 skill_26 skill_5 skill_36 skill_8 skill_37 skill_2
+19 23 
+skill_35 skill_2 skill_7 skill_9 skill_29 skill_24 skill_18 skill_19 skill_12 skill_21 skill_36 skill_15 skill_32 skill_5 skill_20 skill_33 skill_27 skill_31 skill_28 skill_4 skill_37 skill_16 skill_17
+20 25 
+skill_19 skill_9 skill_33 skill_7 skill_35 skill_8 skill_14 skill_11 skill_28 skill_24 skill_27 skill_16 skill_22 skill_21 skill_23 skill_1 skill_4 skill_3 skill_18 skill_15 skill_25 skill_26 skill_29 skill_6 skill_37
+21 30 
+skill_1 skill_24 skill_13 skill_7 skill_12 skill_37 skill_32 skill_9 skill_4 skill_15 skill_33 skill_23 skill_21 skill_16 skill_5 skill_27 skill_26 skill_3 skill_25 skill_36 skill_35 skill_17 skill_6 skill_22 skill_10 skill_28 skill_38 skill_8 skill_14 skill_31
+22 27 
+skill_31 skill_36 skill_6 skill_26 skill_21 skill_2 skill_20 skill_15 skill_29 skill_7 skill_30 skill_10 skill_25 skill_11 skill_17 skill_23 skill_19 skill_34 skill_16 skill_1 skill_12 skill_5 skill_38 skill_24 skill_8 skill_22 skill_37
+23 25 
+skill_23 skill_5 skill_6 skill_12 skill_21 skill_2 skill_37 skill_14 skill_38 skill_36 skill_29 skill_10 skill_22 skill_19 skill_30 skill_8 skill_34 skill_7 skill_3 skill_4 skill_25 skill_1 skill_26 skill_24 skill_16
+24 25 
+skill_2 skill_4 skill_16 skill_31 skill_34 skill_27 skill_33 skill_8 skill_15 skill_6 skill_35 skill_13 skill_12 skill_3 skill_20 skill_10 skill_17 skill_19 skill_11 skill_37 skill_36 skill_21 skill_24 skill_18 skill_22
+25 29 
+skill_20 skill_17 skill_9 skill_12 skill_21 skill_23 skill_5 skill_25 skill_14 skill_18 skill_7 skill_38 skill_22 skill_2 skill_1 skill_35 skill_33 skill_36 skill_15 skill_8 skill_28 skill_37 skill_11 skill_27 skill_3 skill_13 skill_30 skill_10 skill_29
+26 37 
+skill_10 skill_9 skill_33 skill_6 skill_11 skill_31 skill_18 skill_37 skill_34 skill_12 skill_21 skill_14 skill_23 skill_17 skill_20 skill_36 skill_8 skill_1 skill_19 skill_3 skill_4 skill_5 skill_30 skill_22 skill_25 skill_28 skill_38 skill_26 skill_13 skill_15 skill_32 skill_2 skill_7 skill_27 skill_35 skill_16 skill_24
+27 25 
+skill_20 skill_28 skill_9 skill_18 skill_33 skill_37 skill_23 skill_30 skill_29 skill_11 skill_35 skill_4 skill_12 skill_36 skill_16 skill_38 skill_2 skill_1 skill_3 skill_17 skill_7 skill_19 skill_14 skill_5 skill_31
+28 20 
+skill_16 skill_3 skill_2 skill_26 skill_33 skill_9 skill_11 skill_28 skill_14 skill_10 skill_22 skill_7 skill_30 skill_1 skill_17 skill_12 skill_31 skill_27 skill_15 skill_32
+29 32 
+skill_7 skill_9 skill_16 skill_26 skill_4 skill_13 skill_32 skill_10 skill_21 skill_29 skill_28 skill_37 skill_35 skill_23 skill_33 skill_18 skill_19 skill_34 skill_30 skill_1 skill_11 skill_6 skill_2 skill_8 skill_14 skill_3 skill_27 skill_15 skill_17 skill_22 skill_38 skill_24
+30 16 
+skill_6 skill_37 skill_2 skill_22 skill_27 skill_10 skill_32 skill_4 skill_9 skill_3 skill_26 skill_15 skill_23 skill_31 skill_12 skill_20
+31 34 
+skill_9 skill_4 skill_35 skill_17 skill_24 skill_34 skill_7 skill_26 skill_32 skill_38 skill_15 skill_1 skill_18 skill_21 skill_5 skill_23 skill_20 skill_11 skill_29 skill_27 skill_8 skill_12 skill_33 skill_22 skill_28 skill_6 skill_30 skill_14 skill_37 skill_31 skill_13 skill_3 skill_16 skill_36
+32 33 
+skill_9 skill_15 skill_2 skill_30 skill_29 skill_3 skill_25 skill_19 skill_18 skill_17 skill_26 skill_10 skill_28 skill_36 skill_32 skill_37 skill_12 skill_8 skill_24 skill_20 skill_5 skill_7 skill_27 skill_22 skill_31 skill_1 skill_16 skill_23 skill_14 skill_35 skill_6 skill_21 skill_38
+33 23 
+skill_29 skill_38 skill_5 skill_3 skill_33 skill_27 skill_1 skill_20 skill_19 skill_10 skill_36 skill_25 skill_31 skill_32 skill_16 skill_12 skill_13 skill_26 skill_22 skill_17 skill_14 skill_23 skill_6
+34 16 
+skill_33 skill_32 skill_27 skill_31 skill_17 skill_9 skill_28 skill_34 skill_36 skill_29 skill_12 skill_18 skill_14 skill_15 skill_35 skill_6
+35 19 
+skill_15 skill_8 skill_20 skill_30 skill_12 skill_35 skill_13 skill_9 skill_37 skill_3 skill_4 skill_23 skill_7 skill_17 skill_22 skill_16 skill_19 skill_10 skill_38
+36 26 
+skill_27 skill_35 skill_25 skill_13 skill_19 skill_8 skill_6 skill_16 skill_23 skill_14 skill_20 skill_4 skill_34 skill_9 skill_11 skill_5 skill_17 skill_18 skill_37 skill_31 skill_1 skill_38 skill_15 skill_3 skill_36 skill_10
+37 25 
+skill_2 skill_1 skill_22 skill_32 skill_27 skill_37 skill_10 skill_30 skill_38 skill_9 skill_16 skill_4 skill_25 skill_5 skill_11 skill_19 skill_14 skill_7 skill_8 skill_33 skill_21 skill_3 skill_28 skill_6 skill_18
+38 35 
+skill_24 skill_6 skill_22 skill_33 skill_38 skill_8 skill_31 skill_13 skill_19 skill_12 skill_25 skill_1 skill_18 skill_28 skill_26 skill_16 skill_34 skill_7 skill_36 skill_5 skill_37 skill_30 skill_35 skill_10 skill_32 skill_27 skill_11 skill_9 skill_2 skill_17 skill_21 skill_15 skill_4 skill_23 skill_29
+39 19 
+skill_5 skill_37 skill_1 skill_21 skill_35 skill_36 skill_14 skill_15 skill_33 skill_17 skill_18 skill_10 skill_13 skill_16 skill_32 skill_7 skill_20 skill_4 skill_38
+40 22 
+skill_26 skill_29 skill_16 skill_18 skill_38 skill_23 skill_11 skill_15 skill_36 skill_21 skill_9 skill_17 skill_27 skill_22 skill_37 skill_14 skill_35 skill_10 skill_5 skill_28 skill_24 skill_12
+41 16 
+skill_11 skill_33 skill_23 skill_12 skill_6 skill_8 skill_35 skill_34 skill_25 skill_36 skill_29 skill_1 skill_31 skill_26 skill_14 skill_18
+42 29 
+skill_32 skill_38 skill_26 skill_23 skill_18 skill_3 skill_28 skill_22 skill_29 skill_27 skill_9 skill_16 skill_8 skill_11 skill_1 skill_31 skill_30 skill_14 skill_36 skill_15 skill_24 skill_20 skill_19 skill_13 skill_35 skill_21 skill_2 skill_12 skill_10
+43 25 
+skill_3 skill_14 skill_2 skill_20 skill_8 skill_25 skill_19 skill_30 skill_36 skill_6 skill_24 skill_21 skill_27 skill_9 skill_13 skill_35 skill_18 skill_7 skill_4 skill_33 skill_17 skill_29 skill_1 skill_12 skill_34
+44 27 
+skill_6 skill_18 skill_11 skill_26 skill_1 skill_7 skill_34 skill_29 skill_19 skill_14 skill_10 skill_2 skill_5 skill_23 skill_37 skill_13 skill_31 skill_21 skill_9 skill_20 skill_32 skill_36 skill_33 skill_27 skill_16 skill_38 skill_4
+45 35 
+skill_13 skill_7 skill_15 skill_23 skill_36 skill_8 skill_27 skill_29 skill_19 skill_11 skill_30 skill_24 skill_10 skill_14 skill_9 skill_22 skill_32 skill_4 skill_16 skill_37 skill_18 skill_26 skill_1 skill_5 skill_12 skill_2 skill_38 skill_35 skill_21 skill_33 skill_6 skill_25 skill_20 skill_28 skill_34
+46 32 
+skill_28 skill_15 skill_32 skill_17 skill_7 skill_19 skill_8 skill_33 skill_27 skill_25 skill_5 skill_22 skill_36 skill_29 skill_4 skill_38 skill_12 skill_30 skill_9 skill_37 skill_24 skill_14 skill_10 skill_13 skill_3 skill_31 skill_34 skill_2 skill_26 skill_35 skill_18 skill_23
+47 27 
+skill_9 skill_10 skill_15 skill_22 skill_36 skill_34 skill_21 skill_13 skill_35 skill_14 skill_38 skill_26 skill_7 skill_23 skill_27 skill_33 skill_1 skill_17 skill_29 skill_19 skill_28 skill_3 skill_30 skill_5 skill_6 skill_24 skill_8
+48 30 
+skill_13 skill_36 skill_29 skill_12 skill_19 skill_33 skill_17 skill_10 skill_3 skill_34 skill_7 skill_35 skill_2 skill_38 skill_5 skill_16 skill_6 skill_14 skill_25 skill_27 skill_31 skill_11 skill_30 skill_21 skill_18 skill_23 skill_9 skill_20 skill_4 skill_15
+49 21 
+skill_12 skill_27 skill_10 skill_34 skill_17 skill_33 skill_32 skill_15 skill_5 skill_14 skill_18 skill_23 skill_2 skill_25 skill_3 skill_31 skill_35 skill_36 skill_4 skill_9 skill_24
+50 19 
+skill_33 skill_24 skill_29 skill_19 skill_14 skill_30 skill_3 skill_4 skill_32 skill_26 skill_35 skill_9 skill_8 skill_23 skill_15 skill_38 skill_25 skill_34 skill_7
+51 15 
+skill_14 skill_21 skill_31 skill_27 skill_18 skill_9 skill_29 skill_11 skill_38 skill_35 skill_24 skill_2 skill_17 skill_34 skill_10
+52 18 
+skill_24 skill_35 skill_23 skill_3 skill_20 skill_11 skill_9 skill_17 skill_18 skill_7 skill_12 skill_15 skill_36 skill_26 skill_2 skill_38 skill_28 skill_37
+53 30 
+skill_13 skill_4 skill_11 skill_29 skill_35 skill_20 skill_30 skill_37 skill_31 skill_3 skill_28 skill_25 skill_16 skill_8 skill_23 skill_10 skill_12 skill_14 skill_34 skill_27 skill_17 skill_15 skill_1 skill_33 skill_5 skill_22 skill_38 skill_9 skill_19 skill_6
+54 31 
+skill_10 skill_11 skill_38 skill_30 skill_36 skill_23 skill_14 skill_12 skill_35 skill_9 skill_5 skill_13 skill_29 skill_6 skill_32 skill_17 skill_33 skill_4 skill_3 skill_25 skill_20 skill_1 skill_26 skill_37 skill_15 skill_27 skill_2 skill_24 skill_28 skill_8 skill_7
+55 25 
+skill_6 skill_1 skill_31 skill_36 skill_30 skill_11 skill_12 skill_29 skill_9 skill_37 skill_38 skill_10 skill_33 skill_3 skill_28 skill_19 skill_4 skill_15 skill_22 skill_14 skill_16 skill_5 skill_13 skill_2 skill_27
+56 36 
+skill_36 skill_9 skill_17 skill_38 skill_33 skill_21 skill_35 skill_12 skill_26 skill_25 skill_29 skill_20 skill_3 skill_34 skill_11 skill_19 skill_16 skill_32 skill_30 skill_31 skill_14 skill_2 skill_7 skill_13 skill_23 skill_24 skill_15 skill_5 skill_4 skill_8 skill_10 skill_1 skill_18 skill_27 skill_28 skill_22
+57 36 
+skill_35 skill_17 skill_1 skill_25 skill_3 skill_28 skill_9 skill_26 skill_10 skill_30 skill_22 skill_32 skill_23 skill_34 skill_13 skill_12 skill_16 skill_14 skill_4 skill_19 skill_21 skill_36 skill_5 skill_7 skill_24 skill_11 skill_29 skill_8 skill_6 skill_18 skill_27 skill_37 skill_2 skill_38 skill_33 skill_31
+58 33 
+skill_30 skill_8 skill_33 skill_7 skill_20 skill_2 skill_23 skill_15 skill_3 skill_9 skill_28 skill_5 skill_17 skill_34 skill_29 skill_36 skill_37 skill_4 skill_26 skill_38 skill_14 skill_13 skill_22 skill_1 skill_18 skill_25 skill_6 skill_12 skill_11 skill_10 skill_27 skill_16 skill_32
+59 15 
+skill_16 skill_14 skill_34 skill_19 skill_28 skill_9 skill_36 skill_29 skill_15 skill_6 skill_18 skill_22 skill_37 skill_3 skill_30
+60 22 
+skill_35 skill_13 skill_23 skill_8 skill_2 skill_6 skill_34 skill_1 skill_3 skill_11 skill_4 skill_30 skill_19 skill_33 skill_24 skill_10 skill_15 skill_22 skill_21 skill_20 skill_36 skill_32
+61 30 
+skill_1 skill_2 skill_29 skill_31 skill_16 skill_7 skill_18 skill_6 skill_37 skill_10 skill_12 skill_32 skill_28 skill_5 skill_24 skill_11 skill_4 skill_26 skill_34 skill_14 skill_13 skill_35 skill_25 skill_33 skill_9 skill_36 skill_15 skill_8 skill_21 skill_19
+62 27 
+skill_4 skill_1 skill_29 skill_13 skill_7 skill_30 skill_27 skill_32 skill_17 skill_14 skill_35 skill_31 skill_16 skill_33 skill_36 skill_37 skill_12 skill_20 skill_25 skill_26 skill_18 skill_5 skill_34 skill_15 skill_23 skill_38 skill_6
+63 22 
+skill_28 skill_26 skill_33 skill_35 skill_34 skill_36 skill_4 skill_25 skill_3 skill_30 skill_31 skill_12 skill_6 skill_13 skill_15 skill_20 skill_23 skill_19 skill_37 skill_11 skill_7 skill_2
+64 32 
+skill_22 skill_1 skill_36 skill_32 skill_34 skill_23 skill_35 skill_8 skill_28 skill_5 skill_7 skill_2 skill_29 skill_31 skill_30 skill_11 skill_33 skill_4 skill_25 skill_14 skill_9 skill_21 skill_20 skill_38 skill_12 skill_18 skill_24 skill_27 skill_16 skill_37 skill_17 skill_10
+65 30 
+skill_20 skill_10 skill_13 skill_16 skill_4 skill_19 skill_18 skill_26 skill_14 skill_2 skill_31 skill_17 skill_38 skill_37 skill_35 skill_33 skill_7 skill_23 skill_27 skill_5 skill_8 skill_1 skill_9 skill_29 skill_36 skill_6 skill_30 skill_22 skill_24 skill_3
+66 31 
+skill_32 skill_30 skill_36 skill_28 skill_22 skill_10 skill_8 skill_11 skill_20 skill_9 skill_13 skill_19 skill_14 skill_33 skill_24 skill_2 skill_18 skill_12 skill_7 skill_16 skill_21 skill_6 skill_38 skill_27 skill_17 skill_37 skill_1 skill_29 skill_4 skill_34 skill_5
+67 26 
+skill_25 skill_10 skill_35 skill_28 skill_27 skill_21 skill_34 skill_3 skill_20 skill_9 skill_12 skill_33 skill_30 skill_16 skill_15 skill_23 skill_14 skill_1 skill_8 skill_19 skill_38 skill_11 skill_31 skill_37 skill_32 skill_26
+68 29 
+skill_8 skill_31 skill_19 skill_22 skill_25 skill_17 skill_10 skill_30 skill_15 skill_18 skill_9 skill_16 skill_5 skill_33 skill_26 skill_13 skill_14 skill_3 skill_36 skill_35 skill_1 skill_37 skill_21 skill_38 skill_34 skill_29 skill_12 skill_20 skill_4
+69 17 
+skill_6 skill_5 skill_22 skill_10 skill_33 skill_27 skill_29 skill_31 skill_30 skill_20 skill_25 skill_7 skill_35 skill_18 skill_21 skill_16 skill_24
+70 34 
+skill_27 skill_18 skill_33 skill_3 skill_4 skill_34 skill_19 skill_23 skill_31 skill_32 skill_15 skill_2 skill_11 skill_17 skill_5 skill_26 skill_35 skill_7 skill_20 skill_28 skill_8 skill_12 skill_1 skill_10 skill_21 skill_29 skill_37 skill_22 skill_36 skill_24 skill_16 skill_38 skill_30 skill_9
+71 37 
+skill_16 skill_11 skill_18 skill_5 skill_33 skill_7 skill_1 skill_29 skill_3 skill_15 skill_36 skill_35 skill_25 skill_9 skill_28 skill_10 skill_17 skill_19 skill_4 skill_24 skill_14 skill_13 skill_30 skill_31 skill_23 skill_22 skill_26 skill_32 skill_27 skill_38 skill_21 skill_37 skill_34 skill_6 skill_20 skill_8 skill_2
+72 27 
+skill_24 skill_38 skill_8 skill_15 skill_10 skill_31 skill_35 skill_30 skill_2 skill_20 skill_18 skill_9 skill_17 skill_29 skill_36 skill_33 skill_32 skill_5 skill_37 skill_1 skill_26 skill_12 skill_23 skill_34 skill_16 skill_3 skill_21
+73 36 
+skill_35 skill_25 skill_17 skill_19 skill_16 skill_8 skill_12 skill_26 skill_22 skill_32 skill_4 skill_37 skill_38 skill_34 skill_10 skill_11 skill_15 skill_20 skill_1 skill_31 skill_14 skill_27 skill_6 skill_5 skill_36 skill_28 skill_2 skill_23 skill_13 skill_18 skill_30 skill_21 skill_9 skill_29 skill_33 skill_7
+74 19 
+skill_36 skill_28 skill_3 skill_1 skill_38 skill_21 skill_2 skill_11 skill_29 skill_15 skill_9 skill_27 skill_16 skill_32 skill_31 skill_19 skill_12 skill_8 skill_5
+75 24 
+skill_2 skill_37 skill_26 skill_19 skill_25 skill_3 skill_29 skill_32 skill_38 skill_31 skill_18 skill_24 skill_30 skill_7 skill_4 skill_20 skill_27 skill_33 skill_12 skill_23 skill_15 skill_14 skill_6 skill_22
+76 37 
+skill_18 skill_23 skill_32 skill_7 skill_25 skill_34 skill_28 skill_19 skill_6 skill_12 skill_31 skill_27 skill_5 skill_36 skill_26 skill_20 skill_37 skill_3 skill_13 skill_10 skill_2 skill_4 skill_22 skill_35 skill_38 skill_9 skill_8 skill_30 skill_17 skill_15 skill_1 skill_16 skill_33 skill_14 skill_24 skill_21 skill_11
+77 18 
+skill_23 skill_29 skill_25 skill_13 skill_26 skill_30 skill_4 skill_22 skill_36 skill_24 skill_15 skill_9 skill_14 skill_32 skill_11 skill_8 skill_1 skill_20
+78 23 
+skill_25 skill_5 skill_35 skill_13 skill_14 skill_28 skill_29 skill_8 skill_3 skill_22 skill_17 skill_26 skill_2 skill_21 skill_33 skill_4 skill_12 skill_9 skill_6 skill_10 skill_18 skill_20 skill_23
+79 17 
+skill_15 skill_37 skill_26 skill_21 skill_1 skill_14 skill_4 skill_28 skill_25 skill_18 skill_11 skill_7 skill_29 skill_5 skill_30 skill_12 skill_31
+80 20 
+skill_35 skill_9 skill_34 skill_2 skill_7 skill_13 skill_21 skill_33 skill_3 skill_1 skill_16 skill_25 skill_15 skill_27 skill_23 skill_5 skill_20 skill_4 skill_18 skill_31
+81 27 
+skill_16 skill_10 skill_3 skill_32 skill_1 skill_13 skill_23 skill_22 skill_26 skill_4 skill_20 skill_11 skill_9 skill_2 skill_18 skill_17 skill_25 skill_21 skill_38 skill_12 skill_24 skill_7 skill_34 skill_5 skill_8 skill_36 skill_6
+82 28 
+skill_34 skill_38 skill_11 skill_16 skill_6 skill_36 skill_22 skill_27 skill_5 skill_7 skill_28 skill_4 skill_20 skill_33 skill_3 skill_2 skill_30 skill_14 skill_37 skill_31 skill_8 skill_17 skill_9 skill_13 skill_18 skill_24 skill_19 skill_25
+83 25 
+skill_37 skill_30 skill_6 skill_5 skill_12 skill_4 skill_8 skill_22 skill_24 skill_11 skill_9 skill_31 skill_34 skill_16 skill_10 skill_13 skill_23 skill_2 skill_18 skill_27 skill_1 skill_14 skill_7 skill_3 skill_33
+84 33 
+skill_15 skill_13 skill_17 skill_38 skill_4 skill_28 skill_22 skill_6 skill_1 skill_25 skill_36 skill_35 skill_14 skill_7 skill_2 skill_8 skill_16 skill_23 skill_32 skill_9 skill_11 skill_24 skill_20 skill_37 skill_29 skill_30 skill_31 skill_21 skill_10 skill_5 skill_19 skill_26 skill_18
+85 22 
+skill_18 skill_9 skill_17 skill_30 skill_25 skill_26 skill_23 skill_29 skill_7 skill_15 skill_12 skill_10 skill_35 skill_22 skill_4 skill_19 skill_27 skill_3 skill_2 skill_38 skill_1 skill_36
+86 21 
+skill_2 skill_23 skill_21 skill_30 skill_12 skill_15 skill_22 skill_20 skill_38 skill_8 skill_27 skill_37 skill_17 skill_11 skill_14 skill_18 skill_31 skill_36 skill_33 skill_35 skill_7
+87 26 
+skill_26 skill_14 skill_18 skill_11 skill_5 skill_21 skill_17 skill_7 skill_6 skill_37 skill_9 skill_19 skill_20 skill_4 skill_12 skill_29 skill_10 skill_2 skill_36 skill_24 skill_23 skill_3 skill_35 skill_8 skill_38 skill_30
+88 23 
+skill_21 skill_11 skill_5 skill_37 skill_17 skill_30 skill_34 skill_6 skill_16 skill_32 skill_35 skill_29 skill_1 skill_15 skill_31 skill_4 skill_10 skill_12 skill_27 skill_22 skill_33 skill_9 skill_3
+89 21 
+skill_1 skill_2 skill_38 skill_26 skill_3 skill_8 skill_5 skill_34 skill_17 skill_35 skill_11 skill_30 skill_31 skill_23 skill_20 skill_33 skill_9 skill_14 skill_27 skill_6 skill_22
+90 17 
+skill_5 skill_11 skill_8 skill_24 skill_32 skill_12 skill_27 skill_33 skill_34 skill_19 skill_10 skill_13 skill_3 skill_14 skill_36 skill_31 skill_22
+91 27 
+skill_6 skill_11 skill_26 skill_24 skill_20 skill_5 skill_34 skill_21 skill_27 skill_7 skill_9 skill_1 skill_10 skill_32 skill_15 skill_14 skill_18 skill_25 skill_16 skill_8 skill_22 skill_30 skill_17 skill_33 skill_4 skill_13 skill_28
+92 15 
+skill_24 skill_4 skill_1 skill_18 skill_27 skill_32 skill_29 skill_7 skill_2 skill_21 skill_28 skill_20 skill_12 skill_30 skill_38
+93 19 
+skill_3 skill_5 skill_30 skill_23 skill_31 skill_2 skill_20 skill_15 skill_16 skill_28 skill_33 skill_18 skill_12 skill_8 skill_6 skill_4 skill_13 skill_22 skill_35
+94 21 
+skill_27 skill_31 skill_13 skill_4 skill_35 skill_38 skill_32 skill_24 skill_37 skill_34 skill_15 skill_5 skill_29 skill_17 skill_25 skill_7 skill_18 skill_23 skill_21 skill_8 skill_20
+95 21 
+skill_7 skill_18 skill_24 skill_35 skill_20 skill_26 skill_12 skill_15 skill_27 skill_16 skill_23 skill_36 skill_2 skill_38 skill_5 skill_31 skill_28 skill_4 skill_33 skill_13 skill_32
+96 33 
+skill_30 skill_33 skill_15 skill_1 skill_12 skill_20 skill_5 skill_13 skill_23 skill_3 skill_22 skill_9 skill_2 skill_27 skill_36 skill_11 skill_35 skill_38 skill_6 skill_19 skill_26 skill_16 skill_31 skill_21 skill_4 skill_14 skill_29 skill_28 skill_10 skill_32 skill_34 skill_37 skill_17
+97 31 
+skill_4 skill_12 skill_16 skill_33 skill_36 skill_1 skill_37 skill_6 skill_5 skill_22 skill_11 skill_23 skill_35 skill_18 skill_31 skill_34 skill_32 skill_17 skill_38 skill_21 skill_7 skill_25 skill_26 skill_27 skill_19 skill_8 skill_29 skill_9 skill_24 skill_30 skill_28
+98 19 
+skill_6 skill_38 skill_19 skill_23 skill_34 skill_17 skill_16 skill_18 skill_32 skill_22 skill_14 skill_25 skill_1 skill_31 skill_28 skill_33 skill_3 skill_36 skill_11
+99 22 
+skill_9 skill_28 skill_8 skill_11 skill_3 skill_5 skill_25 skill_2 skill_35 skill_30 skill_18 skill_29 skill_36 skill_6 skill_19 skill_32 skill_12 skill_23 skill_22 skill_24 skill_27 skill_13
+100 17 
+skill_17 skill_9 skill_3 skill_21 skill_30 skill_33 skill_8 skill_11 skill_29 skill_20 skill_24 skill_38 skill_6 skill_18 skill_34 skill_31 skill_32
+101 19 
+skill_31 skill_38 skill_20 skill_34 skill_10 skill_13 skill_29 skill_27 skill_28 skill_15 skill_23 skill_32 skill_7 skill_18 skill_16 skill_2 skill_3 skill_21 skill_14
+102 21 
+skill_38 skill_10 skill_4 skill_28 skill_33 skill_5 skill_8 skill_11 skill_27 skill_9 skill_1 skill_18 skill_16 skill_22 skill_35 skill_23 skill_36 skill_14 skill_26 skill_34 skill_20
+103 26 
+skill_21 skill_6 skill_35 skill_26 skill_29 skill_10 skill_25 skill_23 skill_31 skill_11 skill_16 skill_18 skill_19 skill_4 skill_3 skill_28 skill_32 skill_8 skill_7 skill_9 skill_24 skill_30 skill_33 skill_36 skill_15 skill_12
+104 30 
+skill_8 skill_32 skill_18 skill_19 skill_27 skill_35 skill_15 skill_12 skill_26 skill_6 skill_36 skill_22 skill_34 skill_3 skill_25 skill_7 skill_11 skill_20 skill_5 skill_21 skill_14 skill_31 skill_4 skill_23 skill_30 skill_9 skill_17 skill_16 skill_24 skill_1
+105 22 
+skill_25 skill_2 skill_9 skill_38 skill_23 skill_28 skill_14 skill_17 skill_13 skill_22 skill_31 skill_15 skill_12 skill_24 skill_30 skill_10 skill_32 skill_18 skill_19 skill_36 skill_35 skill_34
+106 27 
+skill_11 skill_19 skill_14 skill_6 skill_26 skill_21 skill_15 skill_31 skill_1 skill_9 skill_2 skill_37 skill_18 skill_24 skill_28 skill_34 skill_13 skill_30 skill_29 skill_36 skill_7 skill_10 skill_17 skill_38 skill_32 skill_22 skill_16
+107 37 
+skill_19 skill_10 skill_2 skill_35 skill_34 skill_36 skill_7 skill_28 skill_21 skill_3 skill_33 skill_14 skill_18 skill_5 skill_23 skill_29 skill_15 skill_32 skill_11 skill_38 skill_27 skill_31 skill_8 skill_17 skill_16 skill_1 skill_6 skill_22 skill_4 skill_26 skill_12 skill_37 skill_30 skill_9 skill_20 skill_24 skill_25
+108 15 
+skill_10 skill_12 skill_31 skill_30 skill_3 skill_8 skill_28 skill_25 skill_6 skill_23 skill_16 skill_32 skill_9 skill_21 skill_1
+109 16 
+skill_25 skill_9 skill_33 skill_7 skill_15 skill_1 skill_32 skill_30 skill_6 skill_18 skill_24 skill_8 skill_11 skill_19 skill_22 skill_21
+110 18 
+skill_13 skill_22 skill_27 skill_19 skill_20 skill_31 skill_6 skill_25 skill_10 skill_1 skill_17 skill_24 skill_16 skill_26 skill_37 skill_21 skill_36 skill_8
+111 20 
+skill_29 skill_23 skill_26 skill_22 skill_35 skill_7 skill_24 skill_16 skill_5 skill_25 skill_37 skill_31 skill_2 skill_27 skill_32 skill_30 skill_20 skill_8 skill_12 skill_11
+112 17 
+skill_19 skill_11 skill_34 skill_28 skill_4 skill_3 skill_18 skill_17 skill_14 skill_20 skill_22 skill_24 skill_37 skill_1 skill_9 skill_15 skill_12
+113 20 
+skill_24 skill_2 skill_38 skill_17 skill_36 skill_22 skill_10 skill_19 skill_18 skill_9 skill_37 skill_33 skill_25 skill_30 skill_31 skill_8 skill_4 skill_14 skill_15 skill_7
+114 26 
+skill_19 skill_36 skill_4 skill_23 skill_11 skill_32 skill_31 skill_18 skill_20 skill_10 skill_2 skill_25 skill_8 skill_38 skill_14 skill_7 skill_27 skill_33 skill_17 skill_3 skill_29 skill_13 skill_35 skill_12 skill_34 skill_37
+115 24 
+skill_10 skill_11 skill_32 skill_8 skill_24 skill_30 skill_9 skill_36 skill_20 skill_17 skill_34 skill_14 skill_12 skill_16 skill_37 skill_38 skill_35 skill_22 skill_31 skill_25 skill_33 skill_19 skill_13 skill_29
+116 26 
+skill_27 skill_13 skill_3 skill_36 skill_32 skill_22 skill_28 skill_35 skill_25 skill_15 skill_37 skill_38 skill_1 skill_17 skill_7 skill_16 skill_5 skill_30 skill_21 skill_18 skill_33 skill_4 skill_6 skill_24 skill_31 skill_19
+117 35 
+skill_30 skill_10 skill_27 skill_14 skill_35 skill_38 skill_28 skill_12 skill_22 skill_6 skill_23 skill_17 skill_21 skill_13 skill_7 skill_32 skill_24 skill_15 skill_34 skill_9 skill_11 skill_16 skill_1 skill_29 skill_31 skill_5 skill_20 skill_36 skill_19 skill_2 skill_37 skill_8 skill_4 skill_3 skill_25
+118 32 
+skill_5 skill_32 skill_10 skill_24 skill_13 skill_11 skill_18 skill_7 skill_33 skill_28 skill_30 skill_27 skill_2 skill_34 skill_26 skill_29 skill_3 skill_17 skill_8 skill_20 skill_22 skill_38 skill_31 skill_14 skill_16 skill_19 skill_36 skill_23 skill_1 skill_6 skill_25 skill_21
+119 32 
+skill_33 skill_32 skill_1 skill_23 skill_17 skill_19 skill_5 skill_26 skill_15 skill_21 skill_13 skill_36 skill_25 skill_35 skill_3 skill_38 skill_7 skill_20 skill_2 skill_6 skill_27 skill_12 skill_22 skill_10 skill_16 skill_9 skill_37 skill_29 skill_30 skill_14 skill_24 skill_18
+120 25 
+skill_14 skill_6 skill_28 skill_1 skill_23 skill_8 skill_19 skill_38 skill_11 skill_30 skill_18 skill_37 skill_27 skill_4 skill_24 skill_17 skill_32 skill_9 skill_12 skill_25 skill_3 skill_15 skill_34 skill_29 skill_2
+121 33 
+skill_35 skill_29 skill_13 skill_31 skill_24 skill_9 skill_21 skill_17 skill_34 skill_7 skill_14 skill_5 skill_4 skill_12 skill_26 skill_10 skill_6 skill_36 skill_30 skill_15 skill_19 skill_1 skill_38 skill_37 skill_20 skill_11 skill_32 skill_27 skill_33 skill_3 skill_23 skill_28 skill_16
+122 26 
+skill_25 skill_34 skill_19 skill_5 skill_38 skill_24 skill_30 skill_2 skill_17 skill_36 skill_4 skill_10 skill_26 skill_18 skill_37 skill_9 skill_3 skill_20 skill_13 skill_7 skill_32 skill_33 skill_21 skill_23 skill_12 skill_35
+123 16 
+skill_16 skill_3 skill_11 skill_7 skill_13 skill_26 skill_5 skill_14 skill_30 skill_4 skill_20 skill_21 skill_2 skill_38 skill_6 skill_35
+124 28 
+skill_15 skill_32 skill_21 skill_38 skill_20 skill_18 skill_10 skill_17 skill_19 skill_34 skill_36 skill_13 skill_4 skill_26 skill_25 skill_6 skill_33 skill_12 skill_11 skill_37 skill_29 skill_1 skill_22 skill_31 skill_16 skill_28 skill_35 skill_14
+125 23 
+skill_4 skill_21 skill_38 skill_32 skill_19 skill_22 skill_1 skill_15 skill_26 skill_10 skill_34 skill_2 skill_37 skill_7 skill_6 skill_33 skill_16 skill_5 skill_17 skill_20 skill_8 skill_14 skill_31
+126 19 
+skill_3 skill_12 skill_7 skill_20 skill_25 skill_1 skill_5 skill_16 skill_33 skill_22 skill_15 skill_29 skill_19 skill_2 skill_10 skill_26 skill_14 skill_24 skill_6
+127 35 
+skill_18 skill_31 skill_20 skill_1 skill_37 skill_6 skill_7 skill_8 skill_4 skill_3 skill_30 skill_17 skill_33 skill_28 skill_21 skill_24 skill_5 skill_29 skill_11 skill_32 skill_36 skill_27 skill_26 skill_12 skill_23 skill_9 skill_19 skill_22 skill_34 skill_13 skill_14 skill_2 skill_25 skill_38 skill_10
+128 33 
+skill_19 skill_2 skill_7 skill_15 skill_18 skill_28 skill_36 skill_3 skill_31 skill_26 skill_11 skill_33 skill_9 skill_38 skill_27 skill_17 skill_4 skill_21 skill_25 skill_22 skill_14 skill_23 skill_16 skill_8 skill_6 skill_32 skill_13 skill_37 skill_35 skill_1 skill_29 skill_10 skill_34
+129 23 
+skill_29 skill_7 skill_26 skill_38 skill_9 skill_33 skill_14 skill_3 skill_31 skill_19 skill_2 skill_8 skill_6 skill_24 skill_13 skill_28 skill_37 skill_17 skill_27 skill_21 skill_12 skill_5 skill_35
+130 34 
+skill_7 skill_2 skill_25 skill_21 skill_3 skill_38 skill_36 skill_4 skill_20 skill_5 skill_6 skill_1 skill_26 skill_24 skill_10 skill_19 skill_16 skill_11 skill_14 skill_29 skill_12 skill_37 skill_34 skill_22 skill_23 skill_32 skill_27 skill_28 skill_30 skill_15 skill_13 skill_33 skill_8 skill_31
+131 15 
+skill_38 skill_7 skill_13 skill_35 skill_22 skill_12 skill_8 skill_36 skill_6 skill_30 skill_32 skill_37 skill_26 skill_18 skill_20
+132 36 
+skill_18 skill_31 skill_32 skill_5 skill_15 skill_36 skill_34 skill_11 skill_19 skill_22 skill_24 skill_23 skill_35 skill_17 skill_1 skill_38 skill_16 skill_6 skill_27 skill_26 skill_12 skill_29 skill_21 skill_14 skill_10 skill_30 skill_2 skill_8 skill_37 skill_9 skill_28 skill_25 skill_3 skill_7 skill_33 skill_20
+133 27 
+skill_24 skill_4 skill_32 skill_36 skill_14 skill_28 skill_31 skill_20 skill_12 skill_17 skill_7 skill_29 skill_13 skill_9 skill_5 skill_11 skill_38 skill_16 skill_10 skill_18 skill_26 skill_30 skill_19 skill_8 skill_1 skill_21 skill_2
+134 17 
+skill_36 skill_15 skill_29 skill_34 skill_19 skill_10 skill_26 skill_38 skill_4 skill_16 skill_30 skill_23 skill_33 skill_14 skill_7 skill_12 skill_8
+135 37 
+skill_21 skill_28 skill_14 skill_37 skill_22 skill_19 skill_17 skill_15 skill_20 skill_38 skill_29 skill_26 skill_3 skill_5 skill_7 skill_9 skill_11 skill_1 skill_23 skill_27 skill_16 skill_34 skill_36 skill_18 skill_32 skill_4 skill_25 skill_10 skill_8 skill_6 skill_30 skill_35 skill_24 skill_13 skill_12 skill_31 skill_2
+136 27 
+skill_17 skill_25 skill_36 skill_31 skill_30 skill_6 skill_8 skill_21 skill_27 skill_2 skill_29 skill_4 skill_14 skill_5 skill_12 skill_3 skill_35 skill_19 skill_1 skill_32 skill_38 skill_28 skill_16 skill_18 skill_15 skill_9 skill_10
+137 17 
+skill_21 skill_11 skill_31 skill_4 skill_23 skill_34 skill_7 skill_15 skill_2 skill_22 skill_10 skill_29 skill_1 skill_16 skill_18 skill_12 skill_27
+138 23 
+skill_24 skill_2 skill_9 skill_22 skill_7 skill_35 skill_4 skill_17 skill_6 skill_11 skill_14 skill_37 skill_33 skill_23 skill_18 skill_19 skill_28 skill_38 skill_5 skill_30 skill_31 skill_29 skill_34
+139 28 
+skill_26 skill_6 skill_10 skill_34 skill_2 skill_35 skill_22 skill_8 skill_25 skill_20 skill_23 skill_16 skill_29 skill_36 skill_32 skill_9 skill_18 skill_38 skill_7 skill_3 skill_33 skill_37 skill_12 skill_31 skill_19 skill_1 skill_11 skill_24
+140 23 
+skill_18 skill_17 skill_20 skill_21 skill_16 skill_6 skill_4 skill_37 skill_8 skill_7 skill_34 skill_27 skill_11 skill_1 skill_29 skill_15 skill_30 skill_2 skill_5 skill_12 skill_33 skill_14 skill_32
+141 31 
+skill_26 skill_37 skill_9 skill_16 skill_30 skill_10 skill_20 skill_11 skill_2 skill_13 skill_12 skill_6 skill_32 skill_14 skill_21 skill_25 skill_5 skill_15 skill_31 skill_22 skill_28 skill_19 skill_7 skill_36 skill_29 skill_4 skill_38 skill_17 skill_33 skill_23 skill_24
+142 36 
+skill_16 skill_11 skill_8 skill_32 skill_30 skill_36 skill_25 skill_3 skill_13 skill_19 skill_26 skill_23 skill_28 skill_33 skill_18 skill_27 skill_12 skill_38 skill_5 skill_17 skill_24 skill_21 skill_7 skill_6 skill_1 skill_31 skill_20 skill_9 skill_15 skill_37 skill_10 skill_4 skill_29 skill_22 skill_35 skill_2
+143 16 
+skill_12 skill_30 skill_11 skill_5 skill_24 skill_25 skill_8 skill_17 skill_23 skill_15 skill_2 skill_18 skill_34 skill_22 skill_9 skill_4
+144 31 
+skill_23 skill_7 skill_21 skill_2 skill_4 skill_3 skill_38 skill_13 skill_30 skill_17 skill_16 skill_29 skill_27 skill_5 skill_35 skill_36 skill_37 skill_32 skill_8 skill_34 skill_14 skill_6 skill_31 skill_25 skill_22 skill_28 skill_24 skill_18 skill_9 skill_15 skill_26
+145 32 
+skill_14 skill_25 skill_32 skill_13 skill_5 skill_34 skill_26 skill_17 skill_24 skill_15 skill_37 skill_36 skill_3 skill_19 skill_23 skill_1 skill_9 skill_33 skill_6 skill_35 skill_29 skill_7 skill_30 skill_8 skill_20 skill_10 skill_28 skill_12 skill_2 skill_38 skill_4 skill_31

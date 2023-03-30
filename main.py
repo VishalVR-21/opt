@@ -241,8 +241,8 @@ def submission():
     if number_of_files == 0:
         return {'error': 'No output files found'}
 
-    # if not os.path.isdir(passcode):
-        # os.mkdir(passcode)
+    if not os.path.isdir(passcode):
+        os.mkdir(passcode)
 
         # Initialize the file path for the code file and save the code file temporarily
     code_file_path = '%s/code-%d-%s' % (
