@@ -23,7 +23,7 @@ def rand_str(n):
 
 
 # Write comma separated teamnames inside the team list
-teams = []
+teams = ["hello", "hello1", "hello2"]
 team_code = {}
 
 for team in teams:
@@ -33,4 +33,3 @@ for team in teams:
 f = open('teams-passcode-mapping.json', 'w')
 json.dump(team_code, f, indent=4)
 f.close()
-

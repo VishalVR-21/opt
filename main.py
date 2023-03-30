@@ -241,19 +241,19 @@ def submission():
     if number_of_files == 0:
         return {'error': 'No output files found'}
 
-    if not os.path.isdir(passcode):
-        os.mkdir(passcode)
+    # if not os.path.isdir(passcode):
+        # os.mkdir(passcode)
 
-    # Initialize the file path for the code file and save the code file temporarily
+        # Initialize the file path for the code file and save the code file temporarily
     code_file_path = '%s/code-%d-%s' % (
         passcode, teams[passcode].number_of_attempts+1, code_file.filename)
     code_file.save(code_file_path)
 
     # Store the code file and delete the temporary code file
     # storage.child(code_file_path).put(code_file_path)
-    # storage.child(code_file_path).put(code_file_path)
+    # storage.child(code_file_path).put(code_file_path)\
     storage.child(code_file_path).put(code_file_path)
-    os.remove(code_file_path)
+    # os.remove(code_file_path)
 
     score = []
 
@@ -333,9 +333,9 @@ def get_output_file(passcode, filename):
     return output_text
 
 
-# if os.environ.get('APP_LOCATION') == 'heroku':
-#     run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
-# else:
-#     run(host='localhost', port=8080, debug=True)
+if os.environ.get('APP_LOCATION') == 'heroku':
+    run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
+else:
+    run(host='localhost', port=8080, debug=True)
 
 app = default_app()
