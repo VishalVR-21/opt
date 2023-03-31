@@ -1,115 +1,49 @@
-# def evaluate(input_file_name, output_file_name):
-#     fin = open(input_file_name, 'r')
-#     fout = open(output_file_name, 'r')
-
-#     try:
-#         points = 0
-
-#         # Write the evaluation code here.
-#         # Read the input from fin file object
-#         # Read the output from fout file object
-
-#     except Exception as e:
-#         fin.close()
-#         fout.close()
-
-#         return {'result': 'WA', 'error': str(e), 'points': 0}
-
-#     fin.close()
-#     fout.close()
-
-#     return {'result': 'AC', 'points': points}
 def evaluate(input_file_name, output_file_name):
     fin = open(input_file_name, 'r')
     fout = open(output_file_name, 'r')
 
     try:
-        skill_set_list = []
-        question_skill_set_list = set([])
-        k = 0
-        with open(input_file_name, 'r') as f:
-            k = int(f.readline())
-            for j in range(k):
-                m = int(f.readline())
-                line = f.readline().strip()
-                question_skill_set = question_skill_set.union(
-                    set(line.split()))
-                question_skill_set_list.append(question_skill_set)
-                n = int(f.readline())
-                skill_set = {}
-                for i in range(n):
-                    line2 = f.readline().strip()
-                    m = int(line2.split()[0])
-                    line = f.readline().strip()
-                    skills = line.split()
-                    skill_set[m] = skills
-                skill_set_list.append(skill_set)
-        points = 0
-        with open(output_file_name, 'r') as f:
-            for i in range(k):
-                n = int(f.readline())
-                for j in range(n):
-                    line = f.readline().strip()
-                    ids = line.split()
-                    team_skills = set([])
-                    for l in ids:
-                        for skills in skill_set_list[i][l]:
-                            team_skills.add(skills)
-                    if question_skill_set_list[i].issubset(team_skills):
-                        points += 1
+        with open('test1.txt', 'r') as f:
+            input_str = f.read().strip()
+
+    # Read the output file
+        with open('output.txt', 'r') as f:
+            output_str = f.read().strip()
+        input_lines = input_str.split('\n')
+    problem_skills = set(input_lines[1].split())
+    n_students = int(input_lines[2])
+    student_skills = []
+    for line in input_lines[3:]:
+        student_id, n_skills, *skills = line.split()
+        student_skills.append(set(skills))
+
+    # Parse the output
+    n_teams = int(output_str[2])
+
+    # Compute the score
+    team_skills = [set.union(*skills) for skills in itertools.combinations(student_skills, 3) if set.union(*skills) >= problem_skills]
+    n_teams_expected = len(team_skills)
+    score = min(n_teams / n_teams_expected, 1) if n_teams_expected > 0 else 0
+    points = int(score * 100)
+    
         fin.close()
         fout.close()
         return {'result': 'AC', 'points': points}
+
+        # Write the evaluation code here.
+        # Read the input from fin file object
+        # Read the output from fout file object
+
     except Exception as e:
         fin.close()
         fout.close()
+
         return {'result': 'WA', 'error': str(e), 'points': 0}
 
+    fin.close()
+    fout.close()
 
-# def evaluate(input_file_name, output_file_name):
-#     fin = open(input_file_name, 'r')
-#     fout = open(output_file_name, 'r')
+    return {'result': 'AC', 'points': points}
 
-#     try:
-#         skill_set = {}
-#         question_skill_set = set([])
-#         with open(input_file_name, 'r') as f:
-#             t = int(f.readline())
-#             for j in range(t):
-#                 m = int(f.readline())
-#                 line = f.readline().strip()
-#                 question_skill_set = question_skill_set.union(
-#                     set(line.split()))
-#                 n = int(f.readline())
-#                 for i in range(n):
-#                     line2 = f.readline().strip()
-#                     m = int(line2.split()[0])
-#                     line = f.readline().strip()
-#                     skills = line.split()
-#                     skill_set[m] = skills
-#         points = 0
-#         with open(output_file_name, 'r') as f:
-#             n = int(f.readline())
-#             total_teams = []
-#             for i in range(n):
-#                 team = []
-#                 line = f.readline().strip()
-#                 team.append(line)
-#                 total_teams.append(team)
-#             for each_team in total_teams:
-#                 team_skills = set([])
-#                 for member in each_team:
-#                     for skills in skill_set[member]:
-#                         team_skills.add(skills)
-#                 if question_skill_set.issubset(team_skills):
-#                     points += 1
 
-#         return {'result': 'AC', 'points': points}
 
-#     except Exception as e:
-#         fin.close()
-#         fout.close()
-#         return {'result': 'WA', 'error': str(e), 'points': 0}
-
-#     fin.close()
-#     fout.close()
